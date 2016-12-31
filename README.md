@@ -82,3 +82,7 @@ Registering UK LTD companies
 ### [Ryan Waggoner](http://ryanwaggoner.com)
 
 ### [Ryan Robinson - Writing Proposals](https://www.ryrob.com/courses/writing-winning-freelance-proposal/?ref=bonsai)
+
+## Misc.
+
+### [How much to make an app?](http://howmuchtomakeanapp.com)
