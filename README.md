@@ -5,6 +5,10 @@
 ### [1st Formations](https://www.1stformations.co.uk)
 Registering UK LTD companies
 
+## Business Insurance
+
+### [Jack](https://withjack.co.uk)
+
 ## Client Management
 
 ### [Cushion](http://cushionapp.com)
