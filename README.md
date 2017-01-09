@@ -37,14 +37,6 @@ Registering UK LTD companies
 
 ### [Let's Workshop](http://letsworkshop.com)
 
-### [Pipeline Daily](http://www.pipelinedaily.com)
-
-> "Get handpicked project leads delivered to your inbox weekly"
-
-- $49/month
-- "We'll email you 15 project leads every Monday, tailored to your needs"
-- "We only ever send out the same leads to 3 people maximum."
-
 ### [Let's Make Apps](https://letsmakeapps.io)
 
 > "I’m Ryan Waggoner, an active freelancer, and I built LetsMakeApps.io as my own personal lead generation system."
