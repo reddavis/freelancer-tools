@@ -79,6 +79,8 @@ Registering UK LTD companies
 
 ### [Ryan Robinson - Writing Proposals](https://www.ryrob.com/courses/writing-winning-freelance-proposal/?ref=bonsai)
 
+### [Harpoon App Blog](https://harpoonapp.com/blog/category/freelancing)
+
 ## Misc.
 
 ### [How much to make an app?](http://howmuchtomakeanapp.com)
