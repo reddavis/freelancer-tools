@@ -106,3 +106,9 @@ For signing documents online
 ### [Carbonmade](https://carbonmade.com)
 
 ### [Squarespace](http://squarespace.com)
+
+
+## Books
+
+### [Go Freelance](http://www.novolume.co.uk/gofreelance/)
+### [Deep Work](http://amzn.to/2yDzvcN)
