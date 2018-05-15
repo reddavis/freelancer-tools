@@ -1,5 +1,7 @@
 # Freelance Resources
 
+Anything missing? Make a pull request!
+
 ## Company registration
 
 ### [1st Formations](https://www.1stformations.co.uk)
