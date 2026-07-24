@@ -20,6 +20,9 @@ Registering UK LTD companies
 
 ## Accounting/Money
 
+### [InvoiceGen](https://invoice-generator.appsnap.co.uk)
+Free online invoice generator — create professional PDF invoices in seconds, no signup required
+
 ### [Forecast](http://forecast.money)
 
 ### [Crunch](https://www.crunch.co.uk)
