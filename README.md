@@ -125,3 +125,10 @@ Customizable contract template "written in plain English".
 ### [Revolut](http://revolut.com/business)
 ### [TransferWise](https://transferwise.com)
 ### [Coconut](https://getcoconut.com)
+
+
+## Pricing and Scope
+
+### [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/)
+
+Free, browser-first toolkit for freelancers and consultants to plan a sustainable hourly rate, build a clear quote, and prepare scope-change responses. No account or uploads required; optional one-time Pro Templates add-on.
