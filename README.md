@@ -28,6 +28,10 @@ Registering UK LTD companies
 
 ### [Gorilla Accounting](https://gorillaaccounting.com)
 
+### [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/)
+
+Free browser invoice/receipt PDF generator. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=freelancer-tools-v1) white-label PDFs, 6 templates, CSV batch CLI, no account.
+
 
 ## Contracts
 
