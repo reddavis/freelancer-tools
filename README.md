@@ -28,6 +28,9 @@ Registering UK LTD companies
 
 ### [Gorilla Accounting](https://gorillaaccounting.com)
 
+### [Freelance Pay Calculator](https://freelancepaycalculator.com)
+
+Free client-side calculator for target hourly/day rates, 1099 taxes, billable days, and proposal pitches.
 
 ## Contracts
 
