@@ -28,6 +28,10 @@ Registering UK LTD companies
 
 ### [Gorilla Accounting](https://gorillaaccounting.com)
 
+### [SmartBizCalc](https://smartbizcalc.com)
+
+Free tax and financial calculators for freelancers — SE tax, 1099 vs W-2 comparison, hourly rate, quarterly estimated tax, S-corp savings, and payroll tax. No signup required.
+
 
 ## Contracts
 
@@ -56,7 +60,7 @@ Customizable contract template "written in plain English".
 
 ### [Let's Make Apps](https://letsmakeapps.io)
 
-> "I’m Ryan Waggoner, an active freelancer, and I built LetsMakeApps.io as my own personal lead generation system."
+> "I'm Ryan Waggoner, an active freelancer, and I built LetsMakeApps.io as my own personal lead generation system."
 
 - $59/month
 - $116/year
