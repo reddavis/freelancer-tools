@@ -16,6 +16,10 @@ Registering UK LTD companies
 ## Client Management
 
 ### [Cushion](http://cushionapp.com)
+### [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/)
+
+Free browser tools for freelancers, including invoices, late-fee calculations, client intake, scopes of work and timesheets.
+
 
 
 ## Accounting/Money
