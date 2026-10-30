@@ -17,6 +17,10 @@ Registering UK LTD companies
 
 ### [Cushion](http://cushionapp.com)
 
+### [SteadyPipe](https://steadypipe.vercel.app/?utm_source=github&utm_medium=directory)
+
+Free follow-up and lead pipeline tracker for freelancers.
+
 
 ## Accounting/Money
 
@@ -46,6 +50,10 @@ For signing documents online
 ### [The Plain Contract](https://plainfreelancecontract.com)
 
 Customizable contract template "written in plain English".
+
+### [ScopeLine](https://scopeline-xi.vercel.app/?utm_source=github&utm_medium=directory)
+
+Free change-order and scope tracking so extra requests get priced, not absorbed.
 
 
 ## Finding Work
